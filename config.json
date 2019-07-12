@@ -1,0 +1,18 @@
+{
+  "shortcut": "Ctrl+F",
+
+  "aliases": {
+    "a": "Adjective",
+    "adv": "Adverb",
+    "v": "Verb",
+    "n": "Noun",
+
+    "b1": "<ul><li></li></ul>",
+    "b2": "<ul><li></li><li></li></ul>",
+    "b3": "<ul><li></li><li></li><li></li></ul>",
+
+    "n1": "<ol><li></li></ol>",
+    "n2": "<ol><li></li><li></li></ol>",
+    "n3": "<ol><li></li><li></li><li></li></ol>"
+  }
+}
